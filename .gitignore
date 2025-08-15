@@ -10,7 +10,6 @@ odoo-data/
 
 # Backup files
 *.sql
-*.gz
 *.tar
 
 # Environment files
