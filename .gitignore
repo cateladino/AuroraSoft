@@ -9,7 +9,6 @@ odoo-data/
 *.pyo
 
 # Backup files
-*.dump
 *.sql
 *.gz
 *.tar
