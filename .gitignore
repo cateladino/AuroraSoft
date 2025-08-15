@@ -1,0 +1,18 @@
+# .gitignore
+# Docker
+db-data/
+odoo-data/
+
+# Odoo
+*.log
+*.pyc
+*.pyo
+
+# Backup files
+*.dump
+*.sql
+*.gz
+*.tar
+
+# Environment files
+.env
